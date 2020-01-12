@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech, Computer Science and Engineering, NIT Hamirpur, 2015
+* Ph.D, Computer Science and Engineering, IIT Gandhinagar, 2020 (expected)
 
 Work experience
 ======
